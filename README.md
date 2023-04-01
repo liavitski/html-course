@@ -1,2 +1,1 @@
-# html-course
-HTML Course by Dave Gray
+#### This repository contains HTML Course by Dave Gray.
